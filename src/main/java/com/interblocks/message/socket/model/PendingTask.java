@@ -4,6 +4,6 @@ import lombok.Data;
 
 @Data
 public class PendingTask {
-    private String role_id;
+    private String roleId;
     private String action;
 }
